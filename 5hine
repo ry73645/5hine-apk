@@ -1,0 +1,16 @@
+5HINE/
+├── .github/
+│   └── workflows/
+│       └── build-apk.yml
+├── app/
+│   ├── build.gradle
+│   └── src/
+│       └── main/
+│           ├── AndroidManifest.xml
+│           └── java/
+│               └── com/
+│                   └── ry73645/
+│                       └── shine/
+│                           └── MainActivity.java
+├── build.gradle
+└── settings.gradle
